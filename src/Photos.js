@@ -15,6 +15,7 @@ export default function Photos(props) {
                     src={photo.src.tiny}
                     className="img-fluid"
                     alt="img-gallery"
+                    title="click to view fullscreen"
                   />
                 </a>
               </div>

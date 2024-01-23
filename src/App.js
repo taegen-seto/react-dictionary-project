@@ -17,11 +17,17 @@ export default function App() {
           <a href="https://github.com/taegen-seto" title="github profile">
             coded by Taegen Seto 🖤
           </a>
-          <a href="https://github.com/taegen-seto/react-dictionary-project">
+          <a
+            href="https://github.com/taegen-seto/react-dictionary-project"
+            title="github repository"
+          >
             {" "}
             open sourced on GitHub 🐈‍⬛
           </a>
-          <a href="https://dapper-crumble.netlify.app/"> hosted on Netlify</a>
+          <a href="https://dapper-crumble.netlify.app/" title="netlify site">
+            {" "}
+            hosted on Netlify
+          </a>
         </footer>
       </div>
     </div>
