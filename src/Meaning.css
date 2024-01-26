@@ -13,3 +13,8 @@
 .Meaning .synonyms {
   list-style: none;
 }
+@media (max-width: 900px) {
+  .Meaning .definition {
+    font-size: 14px;
+  }
+}
