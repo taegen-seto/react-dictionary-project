@@ -3,3 +3,8 @@
   font-size: 44px;
   font-weight: bold;
 }
+@media (max-width: 900px) {
+  .Results h2 {
+    font-size: 33px;
+  }
+}

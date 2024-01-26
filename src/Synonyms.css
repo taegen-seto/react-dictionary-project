@@ -9,3 +9,11 @@
   font-size: 13px;
   line-height: 1;
 }
+@media (max-width: 900px) {
+  .Synonyms {
+    font-size: 12px;
+  }
+  .Synonyms li {
+    font-size: 10px;
+  }
+}
