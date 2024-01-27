@@ -18,6 +18,7 @@ export default function App() {
             href="https://github.com/taegen-seto"
             target="_blank"
             title="github profile"
+            rel="noreferrer"
           >
             coded by Taegen Seto 🖤
           </a>
@@ -25,6 +26,7 @@ export default function App() {
             href="https://github.com/taegen-seto/react-dictionary-project"
             target="_blank"
             title="github repository"
+            rel="noreferrer"
           >
             {" "}
             open sourced on GitHub 🐈‍⬛
@@ -33,6 +35,7 @@ export default function App() {
             href="https://dapper-crumble.netlify.app/"
             target="_blank"
             title="netlify site"
+            rel="noreferrer"
           >
             {" "}
             hosted on Netlify
