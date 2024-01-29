@@ -6,6 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
+        <a name="top"></a>
         <header className="App-header">
           <img src={logo} className="App-logo img-fluid" alt="logo" />
           <h1> Dictionary</h1>
@@ -13,6 +14,11 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="hello" />
         </main>
+        <section>
+          <a href="#top" class="back-to-top d-block d-sm-none">
+            back to top
+          </a>
+        </section>
         <footer className="App-footer">
           <a
             href="https://github.com/taegen-seto"
