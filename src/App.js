@@ -29,7 +29,7 @@ export default function App() {
             rel="noreferrer"
           >
             {" "}
-            open sourced on GitHub 🐈‍⬛
+            open-sourced on GitHub 🐈‍⬛
           </a>
           <a
             href="https://dapper-crumble.netlify.app/"
